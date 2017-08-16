@@ -18,5 +18,9 @@
   "homepage": "https://github.com/Giveback007/Timestamp-Microservice#readme",
   "dependencies": {
     "express": "^4.15.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
   }
 }
